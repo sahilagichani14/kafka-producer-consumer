@@ -1,0 +1,11 @@
+{
+  "partitions": [
+    {
+      "topic": "customer",
+      "partition": 0,
+      "_comment": "offset defines from where records must be del, ",
+      "offset": 0
+    }
+  ],
+  "version": 1
+}
